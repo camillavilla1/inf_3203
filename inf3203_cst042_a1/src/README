@@ -1,0 +1,15 @@
+How to run program
+Assignment 1 - INF-3203
+
+Open terminal and log into uvrocks:
+write "python script.py"
+
+Program will start (you may need to change your username in the script.py file since 
+your username will be a key to kill processes/nodes)
+
+
+To run the plot:
+Write python "plot_res.py"
+
+Plot will be shown and also stored in pdf-format
+
